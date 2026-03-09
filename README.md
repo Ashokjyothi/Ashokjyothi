@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashok Jyothi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **21ht1a0544@gmail.com**
+- 📫 How to reach me **jyothiashok524@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ei4Ys3XKkW2uZZOGDEPm0-NEzHS_6141/view?usp=drivesdk](https://drive.google.com/file/d/1Ei4Ys3XKkW2uZZOGDEPm0-NEzHS_6141/view?usp=drivesdk)
 
